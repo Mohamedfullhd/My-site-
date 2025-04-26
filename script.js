@@ -14,5 +14,5 @@ document.getElementById('download-btn').addEventListener('click', () => {
     document.getElementById('download-count').textContent = `Downloads: ${downloadCount}`;
 
     // Open the download link (replace with your actual download URL)
-    window.location.href = 'https://your-download-link.com/kernel.zip';
+    window.location.href = 'https://github.com/Mohamedfullhd/Upload-kernel-/releases/download/Colorox_kernel_v3/ColoroXKernel_ksu.zip';
 });
